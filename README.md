@@ -44,7 +44,7 @@ get the github open it in visual studio and replace the content of main.cpp by s
 
 ## Use
 
-Move edr.dll, listener.exe and injector.exe in the same folder on a windows machine.
+Move edr.dll, syscall-detect.dll, listener.exe and injector.exe in the same folder on a windows machine.
 
 Launch injector.exe and listener.exe, injector.exe takes one argument.
 
