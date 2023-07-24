@@ -1,7 +1,7 @@
 # MonitoringSyscall
 A small tool to learn dll hooking and test syscall methods and their efficiency.
 
-this program uses syscall-detect.dll from jackullrich
+this program uses syscall-detect.dll from jackullrich (https://github.com/jackullrich/syscall-detect)
 
 
 injector.exe injects edr.dll and syscall-detect.dll into the specified process.
